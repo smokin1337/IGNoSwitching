@@ -1,2 +1,2 @@
 # IGNoSwitching
-Protect account witching in the iOS Instagram app
+Protect account switching in the iOS Instagram app
