@@ -1,0 +1,9 @@
+Package: com.smokin1337.ignoswitching
+Name: IGNoSwitching
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Protect user switching on Instagram app !
+Maintainer: smokin1337
+Author: smokin1337
+Section: Tweaks
